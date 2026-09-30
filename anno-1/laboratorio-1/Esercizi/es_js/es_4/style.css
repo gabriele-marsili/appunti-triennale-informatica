@@ -1,0 +1,10 @@
+body {
+    margin: 0;
+}
+
+div.bottoni {
+    align-items: center;
+    align-self: center;
+    text-align: center;
+    vertical-align: auto;
+}

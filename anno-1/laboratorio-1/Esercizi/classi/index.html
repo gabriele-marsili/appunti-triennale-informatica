@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>repl.it</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+    <script type="text/javascript" id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+    </script>
+</head>
+
+<body>
+    <table id="display">
+    </table>
+
+    <script src="esercizi_classi.js"></script>
+    <script>
+        function poly(p) {
+            var t = ""
+            if (p.length > 1)
+                t += `${p[p.length-1]!=1?p[p.length-1]:"{}"}x^${p.length-1==1?"{}":("{"+(p.length-1)+"}")}`
+            for (var e = p.length - 2; e > 0; e--)
+                if (p[e]) t += `+${p[e]!=1?p[e]:"{}"}x^${e==1?"{}":("{"+e+"}")}`
+            if (p[0])
+                t += `+${p[0]}`
+            return t
+        }
+
+        var ecnt = 0
+
+        function typeset(t, c) {
+            ecnt++
+            var d = document.getElementById("display")
+            d.innerHTML += `<tr><td>(${ecnt})</td><td>\\[${t}\\]</td><td>${c?c:""}</td></tr>`
+            MathJax.typeset()
+        }
+
+        console.poly = (p, c) => typeset(poly(p), c)
+    </script>
+
+</body>
+
+</html>
