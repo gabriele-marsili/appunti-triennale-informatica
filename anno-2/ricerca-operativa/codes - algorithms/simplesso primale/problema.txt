@@ -1,0 +1,16 @@
+Numero variabili (colonne) : 2
+Numero vincoli (righe) : 5
+coefficienti matrice A : 
+1 1 
+-1 1 
+1 -1
+1 0 
+0 1
+coefficienti vettore b :
+12 2 2 6 4 
+coefficienti vettore c : 
+-4 2
+indici dei vincoli in base (facoltativi, se -1 viene creata una base ammissibile di partenza):
+-1
+
+
