@@ -1,13 +1,7 @@
 # Calcolo Numerico
 
-Laurea triennale in Informatica, Universita di Pisa. Secondo anno.
+Laurea triennale in Informatica, Università di Pisa. Secondo anno.
 
-## Contenuto
+Appunti su OneNote.
 
-Materiale non ancora caricato in questa repo.
-
-## Link
-
-- Notebook OneNote: da aggiungere
-
-Gli appunti sono personali e possono contenere errori. Slide e libri di testo dei docenti non sono inclusi: vanno cercati sulle pagine ufficiali del corso.
+Appunti personali: possono contenere errori. Slide e libri dei docenti non sono inclusi.

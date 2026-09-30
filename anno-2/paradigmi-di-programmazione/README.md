@@ -1,17 +1,15 @@
 # Paradigmi di Programmazione
 
-Laurea triennale in Informatica, Universita di Pisa. Secondo anno.
+Laurea triennale in Informatica, Università di Pisa. Secondo anno.
 
-## Contenuto
-
-Esercizi in Java: conti bancari, classi astratte e gerarchie di solidi.
-
-## Struttura della cartella
-
-- `Java/` (20 file)
+Esercizi in Java su classi e classi astratte.
 
 ## Link
 
-- Notebook OneNote: da aggiungere
+- [Notebook OneNote](https://unipiit-my.sharepoint.com/:o:/g/personal/g_marsili9_studenti_unipi_it/IgBQY9EFp26dS40Wfpz_JcKDARVD6S0axnLgDD9yJBJEBYI)
 
-Gli appunti sono personali e possono contenere errori. Slide e libri di testo dei docenti non sono inclusi: vanno cercati sulle pagine ufficiali del corso.
+## Contenuto della cartella
+
+- `Java/` (20 file)
+
+Appunti personali: possono contenere errori. Slide e libri dei docenti non sono inclusi.

@@ -1,13 +1,11 @@
 # Algebra Lineare
 
-Laurea triennale in Informatica, Universita di Pisa. Primo anno.
+Laurea triennale in Informatica, Università di Pisa. Primo anno.
 
-## Contenuto
-
-Materiale non ancora caricato in questa repo.
+Appunti su OneNote.
 
 ## Link
 
-- Notebook OneNote: da aggiungere
+- [Notebook OneNote](https://unipiit-my.sharepoint.com/:o:/g/personal/g_marsili9_studenti_unipi_it/IgA0f7CBLACqQqHQbRSkQFadAbk1JKFpFnXB5VWPvyjN7ko)
 
-Gli appunti sono personali e possono contenere errori. Slide e libri di testo dei docenti non sono inclusi: vanno cercati sulle pagine ufficiali del corso.
+Appunti personali: possono contenere errori. Slide e libri dei docenti non sono inclusi.

@@ -1,12 +1,14 @@
 # Laboratorio II
 
-Laurea triennale in Informatica, Universita di Pisa. Secondo anno.
+Laurea triennale in Informatica, Università di Pisa. Secondo anno.
 
-## Contenuto
+Esercizi in C, parziali e ripasso: array, liste, puntatori, file, thread.
 
-Esercizi e codice C delle lezioni, esercizi di compiti passati, parziali e ripasso. Argomenti: array, liste, puntatori, file, thread. Il progetto finale e in una repo privata.
+## Link
 
-## Struttura della cartella
+- [Notebook OneNote](https://unipiit-my.sharepoint.com/:o:/g/personal/g_marsili9_studenti_unipi_it/IgBiFkct6teSRL8ixPY8YegPAZSmx3bn_Sx3YsoZ_ZzyP6Q)
+
+## Contenuto della cartella
 
 - `esercizi/` (21 file)
 - `lezioni/` (153 file)
@@ -14,8 +16,4 @@ Esercizi e codice C delle lezioni, esercizi di compiti passati, parziali e ripas
 - `riassunti/` (3 file)
 - `ripasso/` (1 file)
 
-## Link
-
-- Notebook OneNote: da aggiungere
-
-Gli appunti sono personali e possono contenere errori. Slide e libri di testo dei docenti non sono inclusi: vanno cercati sulle pagine ufficiali del corso.
+Appunti personali: possono contenere errori. Slide e libri dei docenti non sono inclusi.

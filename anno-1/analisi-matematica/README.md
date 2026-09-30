@@ -1,17 +1,15 @@
 # Analisi Matematica
 
-Laurea triennale in Informatica, Universita di Pisa. Primo anno.
+Laurea triennale in Informatica, Università di Pisa. Primo anno.
 
-## Contenuto
-
-Appunti scritti a mano su iPad delle lezioni 1, 4 e 5 (settembre 2022), con le foto della lavagna della lezione 4.
-
-## Struttura della cartella
-
-- `Lezioni/` (11 file)
+Appunti scritti a mano delle prime lezioni, con le foto della lavagna.
 
 ## Link
 
-- Notebook OneNote: da aggiungere
+- [Notebook OneNote](https://unipiit-my.sharepoint.com/:o:/g/personal/g_marsili9_studenti_unipi_it/IgBaltbYSxwjQb8UUcwWljiLAQiwL59BOzPPqt7H-TvPxFM)
 
-Gli appunti sono personali e possono contenere errori. Slide e libri di testo dei docenti non sono inclusi: vanno cercati sulle pagine ufficiali del corso.
+## Contenuto della cartella
+
+- `Lezioni/` (11 file)
+
+Appunti personali: possono contenere errori. Slide e libri dei docenti non sono inclusi.

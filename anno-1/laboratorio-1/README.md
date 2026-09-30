@@ -1,12 +1,14 @@
 # Laboratorio I
 
-Laurea triennale in Informatica, Universita di Pisa. Primo anno.
+Laurea triennale in Informatica, Università di Pisa. Primo anno.
 
-## Contenuto
+Esercizi, compiti e prove d'esame in JavaScript e TypeScript.
 
-Esercizi, compiti a casa, prove d'esame e codice delle lezioni in JavaScript e TypeScript (classi, numeri binari, esercizi di preparazione).
+## Link
 
-## Struttura della cartella
+- [Notebook OneNote](https://unipiit-my.sharepoint.com/:o:/g/personal/g_marsili9_studenti_unipi_it/IgCLK9232hWHT6qDz_73gfp0AQPY9ewVf40Rh3xSQVwgrbY)
+
+## Contenuto della cartella
 
 - `.vscode/` (5 file)
 - `Compito/` (8 file)
@@ -17,8 +19,4 @@ Esercizi, compiti a casa, prove d'esame e codice delle lezioni in JavaScript e T
 - `Parziale_2_03/` (6 file)
 - `Preparazione_parziale_febbraio/` (6 file)
 
-## Link
-
-- Notebook OneNote: da aggiungere
-
-Gli appunti sono personali e possono contenere errori. Slide e libri di testo dei docenti non sono inclusi: vanno cercati sulle pagine ufficiali del corso.
+Appunti personali: possono contenere errori. Slide e libri dei docenti non sono inclusi.

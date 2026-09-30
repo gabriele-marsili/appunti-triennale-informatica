@@ -1,17 +1,15 @@
-# Fondamenti di Informatica
+# Fondamenti dell'Informatica
 
-Laurea triennale in Informatica, Universita di Pisa. Primo anno.
+Laurea triennale in Informatica, Università di Pisa. Primo anno.
 
-## Contenuto
-
-Appunti scritti a mano su iPad delle lezioni 1-9 (settembre-ottobre 2022): insiemi, relazioni e fondamenti.
-
-## Struttura della cartella
-
-- `Lezioni/` (10 file)
+Appunti scritti a mano delle lezioni 1-9: insiemi, relazioni, logica.
 
 ## Link
 
-- Notebook OneNote: da aggiungere
+- [Notebook OneNote](https://unipiit-my.sharepoint.com/:o:/g/personal/g_marsili9_studenti_unipi_it/IgDXMXkehBqDSIY0yPUrbxXuAdfEYwyVcoXl_av5hkXAYeY)
 
-Gli appunti sono personali e possono contenere errori. Slide e libri di testo dei docenti non sono inclusi: vanno cercati sulle pagine ufficiali del corso.
+## Contenuto della cartella
+
+- `Lezioni/` (10 file)
+
+Appunti personali: possono contenere errori. Slide e libri dei docenti non sono inclusi.
